@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DFE4B7-5524-44EF-892E-AD0388461015}|ShelbyQuizAPI\\ShelbyQuizAPI.csproj|c:\\projects\\quiz app with react and net core api\\shelbyquizapi\\shelbyquizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DFE4B7-5524-44EF-892E-AD0388461015}|ShelbyQuizAPI\\ShelbyQuizAPI.csproj|solutionrelative:shelbyquizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DFE4B7-5524-44EF-892E-AD0388461015}|ShelbyQuizAPI\\ShelbyQuizAPI.csproj|c:\\projects\\quiz app with react and net core api\\shelbyquizapi\\shelbyquizapi\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DFE4B7-5524-44EF-892E-AD0388461015}|ShelbyQuizAPI\\ShelbyQuizAPI.csproj|solutionrelative:shelbyquizapi\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DFE4B7-5524-44EF-892E-AD0388461015}|ShelbyQuizAPI\\ShelbyQuizAPI.csproj|c:\\projects\\quiz app with react and net core api\\shelbyquizapi\\shelbyquizapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DFE4B7-5524-44EF-892E-AD0388461015}|ShelbyQuizAPI\\ShelbyQuizAPI.csproj|solutionrelative:shelbyquizapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "ShelbyQuizAPI\\Models\\Question.cs",
+              "ToolTip": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\Models\\Question.cs",
+              "RelativeToolTip": "ShelbyQuizAPI\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:48:14.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "ShelbyQuizAPI\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "ShelbyQuizAPI\\Controllers\\QuestionController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:46:35.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ShelbyQuizAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\Program.cs",
+              "RelativeToolTip": "ShelbyQuizAPI\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABgAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T01:51:18.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
