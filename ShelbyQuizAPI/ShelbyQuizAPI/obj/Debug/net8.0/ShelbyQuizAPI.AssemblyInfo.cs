@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShelbyQuizAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.00")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceeb3f11fd431fe44549193d82f6f36e74830534")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShelbyQuizAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShelbyQuizAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.00")]

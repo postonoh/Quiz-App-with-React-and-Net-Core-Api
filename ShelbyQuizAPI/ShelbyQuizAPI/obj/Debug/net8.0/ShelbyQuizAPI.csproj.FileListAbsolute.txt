@@ -250,3 +250,4 @@ C:\Projects\Quiz App with React and Net Core Api\ShelbyQuizAPI\ShelbyQuizAPI\bin
 C:\Projects\Quiz App with React and Net Core Api\ShelbyQuizAPI\ShelbyQuizAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Projects\Quiz App with React and Net Core Api\ShelbyQuizAPI\ShelbyQuizAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Projects\Quiz App with React and Net Core Api\ShelbyQuizAPI\ShelbyQuizAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Projects\Quiz App with React and Net Core Api\ShelbyQuizAPI\ShelbyQuizAPI\obj\Debug\net8.0\ShelbyQuizAPI.sourcelink.json

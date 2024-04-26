@@ -1,4 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿#nullable disable
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ShelbyQuizAPI.Models;
@@ -29,7 +34,7 @@ namespace ShelbyQuizAPI.Controllers
                     ImageName = x.ImageName,
                     Options = new string[] { x.Option1, x.Option2, x.Option3, x.Option4 }
                 })
-                .OrderBy( y => Guid.NewGuid())
+                .OrderBy(y => Guid.NewGuid())
                 .Take(5)
                 ).ToListAsync();
 
@@ -80,6 +85,26 @@ namespace ShelbyQuizAPI.Controllers
 
             return NoContent();
         }
+
+        // POST: api/Question/GetAnswers
+        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        [HttpPost]
+        [Route("GetAnswers")]
+        public async Task<ActionResult<Question>> RetrieveAnswers(int[] qnIds)
+        {
+            var answers = await (_context.Questions
+                .Where(x => qnIds.Contains(x.QnId))
+                .Select(y => new
+                {
+                    QnId = y.QnId,
+                    QnInWords = y.QnInWords,
+                    ImageName = y.ImageName,
+                    Options = new string[] { y.Option1, y.Option2, y.Option3, y.Option4 },
+                    Answer = y.Answer
+                })).ToListAsync();
+            return Ok(answers);
+        }
+
 
         // POST: api/Question
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
