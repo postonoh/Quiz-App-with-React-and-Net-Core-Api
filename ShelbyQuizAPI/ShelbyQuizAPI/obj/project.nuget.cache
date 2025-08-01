@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i33sZnCJ80GQIpgKs3P1kUEmsXbd/b1Rg9/n6xzt5FsLSaU3BERo4hVs01qI9HHc3vsYaRJSXYSVg5ETGUgwfQ==",
+  "dgSpecHash": "rHkog/KNfMY=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj",
+  "projectFilePath": "C:\\Projects\\Shelby\\Quiz-App-with-React-and-Net-Core-Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\postonoh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\postonoh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

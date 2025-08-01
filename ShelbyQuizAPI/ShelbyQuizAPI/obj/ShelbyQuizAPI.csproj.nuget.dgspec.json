@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj": {}
+    "C:\\Projects\\Shelby\\Quiz-App-with-React-and-Net-Core-Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj": {
+    "C:\\Projects\\Shelby\\Quiz-App-with-React-and-Net-Core-Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj",
+        "projectUniqueName": "C:\\Projects\\Shelby\\Quiz-App-with-React-and-Net-Core-Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj",
         "projectName": "ShelbyQuizAPI",
-        "projectPath": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj",
+        "projectPath": "C:\\Projects\\Shelby\\Quiz-App-with-React-and-Net-Core-Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\ShelbyQuizAPI.csproj",
         "packagesPath": "C:\\Users\\postonoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Quiz App with React and Net Core Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\obj\\",
+        "outputPath": "C:\\Projects\\Shelby\\Quiz-App-with-React-and-Net-Core-Api\\ShelbyQuizAPI\\ShelbyQuizAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -47,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -95,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
